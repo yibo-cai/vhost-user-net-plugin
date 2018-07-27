@@ -13,4 +13,4 @@ import:
 - package: github.com/coreos/go-iptables
   version: fbb73372b87f6e89951c2b6b31470c2c9d5cfae3
 - package: golang.org/x/sys
-  version: e11762ca30adc5b39fdbfd8c4250dabeb8e456d3
+  version: 076b546753157f758b316e59bcb51e6807c04057

@@ -1,5 +1,5 @@
-hash: 1418e4fe8ff60b7cb625c37c956bc7139c2267228572ba3e53231fcec3c84a79
-updated: 2017-07-19T21:52:23.096616022-07:00
+hash: aaca47808cbcdd3fda306c435cb2f0803caf0e990b6f910db558609dca8a7422
+updated: 2018-07-23T21:23:47.516223711-07:00
 imports:
 - name: github.com/containernetworking/cni
   version: 5c3c17164270150467498a32c71436c7cd5501be
@@ -19,7 +19,7 @@ imports:
   subpackages:
   - nl
 - name: golang.org/x/sys
-  version: e11762ca30adc5b39fdbfd8c4250dabeb8e456d3
+  version: 076b546753157f758b316e59bcb51e6807c04057
   subpackages:
   - unix
 testImports: []
